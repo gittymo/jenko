@@ -58,7 +58,7 @@
           <configuration>
             <archive>
               <manifest>
-                <addClassPath>true</addClassPath>
+                <addClasspath>true</addClasspath>
                 <mainClass>uk.co.processflows.App</mainClass>
               </manifest>
             </archive>
