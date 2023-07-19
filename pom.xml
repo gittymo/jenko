@@ -59,7 +59,7 @@
             <archive>
               <manifest>
                 <addClasspath>true</addClasspath>
-                <mainClass>uk.co.processflows.App</mainClass>
+                <mainClass>uk.co.processflows.jenko.App</mainClass>
               </manifest>
             </archive>
           </configuration>
